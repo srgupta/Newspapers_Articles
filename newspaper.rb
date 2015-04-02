@@ -98,3 +98,5 @@ p paper.articles_by('Mrs').length
 #2. what dependencies does can we remove or improve on?
 #3. methods to make private?
 #4. If used TDD, what Rspec would want?
+
+TEXT TO CREATE DIFFERENCES SO CAN CREATE PULL REQUESTS
